@@ -67,8 +67,8 @@ export default function CircleGroup({
             style={{
               //width: `${Math.max(subtreeSz[item] * 30, 100)}px`,
               //height: `${Math.max(subtreeSz[item] * 30, 100)}px`,
-              width: "200px",
-              height: "200px",
+              width: "150px",
+              height: "150px",
             }}
             className={`bg-blue-500 rounded-full flex items-center justify-center text-center text-white m-2 cursor-pointer text-wrap overflow-hidden`}
             whileHover={{ scale: 1.2 }}
